@@ -1,0 +1,12 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "main": "cron.js",
+  "scripts": {
+    "start": "bun cron.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
